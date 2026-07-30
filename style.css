@@ -6,7 +6,7 @@
     box-shadow: 0 10px 30px rgba(0,0,0,.08);
 }
 
-.logo-box img { height: 70px; width: auto; object-fit: contain; }
+.logo-box img { height: 50px; width: auto; object-fit: contain; }
 
 
 .catalog-title {
