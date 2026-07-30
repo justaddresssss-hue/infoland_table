@@ -130,7 +130,21 @@
     .catalog-card {
         padding: 18px;
     }
+   
+    /* Логотип на всю ширину, по центру */
+    .logo-box {
+        justify-content: center;
+        width: 100%;
+    }
     
+    .logo-box img {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        max-height: 60px; /* Ограничение по высоте */
+        object-fit: contain;
+    }
+}  
     .catalog-title {
         font-size: 26px;
     }
